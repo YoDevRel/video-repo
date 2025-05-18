@@ -1,0 +1,69 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution / packaging
+.Python
+env/
+venv/
+ENV/
+dist/
+build/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.whl
+MANIFEST
+
+# PyInstaller
+#  Usually these files are written to the current working directory.
+#  For best practice, add them to the repo only if they are distributed.
+#  https://github.com/pyinstaller/pyinstaller/blob/5a22683ba904990635644a4c140e3f7a468377c3/docs/when-things-go-wrong.rst
+#  https://github.com/pyinstaller/pyinstaller/blob/5a22683ba904990635644a4c140e3f7a468377c3/docs/using-pyinstaller-2.0.rst
+_MEIPASS*
+!_MEIPASS*/
+dist/
+build/
+*.manifest
+*.spec
+
+# mkdocs
+/site
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Code coverage reports
+/htmlcov
+.tox
+.coverage
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+.hypothesis/
+.pytest_cache/
+
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+environment/
+conda/
+*.log
+*.swp
+*.swo
+*~
+*.bak
+.DS_Store

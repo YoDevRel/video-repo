@@ -1,0 +1,8 @@
+Pillow
+audiotsm
+scipy
+numpy
+pytube
+moviepy
+whisper
+aiohttp
